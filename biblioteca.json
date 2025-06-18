@@ -1,0 +1,15 @@
+{
+    "libros": [
+        {
+            "titulo": "YAAAAA",
+            "autor": "YOOOO",
+            "categoria": "Ciencia"
+        }
+    ],
+    "usuarios": [
+        {
+            "nombre": "YOBO",
+            "codigo": "13"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "cliente": "JUANEXX29",
+        "productos": [
+            [
+                "Chocolate",
+                3000
+            ],
+            [
+                "Croissant",
+                2200
+            ]
+        ],
+        "total": 5200
+    },
+    {
+        "cliente": "ANGELOXX_29",
+        "productos": [
+            [
+                "Café",
+                2500
+            ],
+            [
+                "Pan de queso",
+                1800
+            ]
+        ],
+        "total": 4300
+    }
+]
